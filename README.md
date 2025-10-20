@@ -1,5 +1,5 @@
 Räknar antalet förekomster av fraser i en textfil och skriver ut dem i terminalen om de överstiger en, på csv format
-<fras>, <antal förekomster>
+fras, antal förekomster
 
 Användning.
 python fras_koll.py <textfil> <minsta längd på frasen> <ignore/no>
